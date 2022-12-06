@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/drive-insight/static/css/main.073c9b0a.css",
+    "main.js": "/drive-insight/static/js/main.f354a513.js",
+    "static/js/787.9d624670.chunk.js": "/drive-insight/static/js/787.9d624670.chunk.js",
+    "static/media/logo.svg": "/drive-insight/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/drive-insight/index.html",
+    "main.073c9b0a.css.map": "/drive-insight/static/css/main.073c9b0a.css.map",
+    "main.f354a513.js.map": "/drive-insight/static/js/main.f354a513.js.map",
+    "787.9d624670.chunk.js.map": "/drive-insight/static/js/787.9d624670.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f354a513.js"
+  ]
+}
